@@ -6,6 +6,27 @@ An enterprise document-based AI chatbot built using **Retrieval-Augmented Genera
 The system allows users to ask questions about enterprise documents and receive grounded answers generated using relevant information retrieved from the document knowledge base.
 
 ---
+## 👥 Project Team
+
+This project was developed collaboratively by a cross-functional team covering project leadership, frontend engineering, backend engineering, AI/RAG workflows, and deployment.
+
+| Role | Team Members | Primary Contribution |
+|---|---|---|
+| 🎯 **Team Lead** | **Shirish Srivastava** | Project leadership, coordination, architecture oversight, and deployment |
+| 🎨 **Frontend Development** | **Rohan**, **Saloni Mehta**, **Prashant Mondhe** | User interface, frontend application development, dashboard and frontend integration |
+| ⚙️ **Backend Development** | **Ayush Bhagat**, **Harsh Roy**, **Umesh**, **Sumit**, **Sushant Pandey** | Backend APIs, AI/RAG workflow integration, document processing, retrieval, business logic, and backend services |
+| 🚀 **Deployment** | **Shirish Srivastava**, **Rohan** | Application deployment, environment configuration, and production setup |
+
+### 🧩 Team Contribution Overview
+
+- **Project Leadership — Shirish Srivastava:** Led overall project coordination and contributed to architecture and deployment activities.
+- **Frontend Team — Rohan, Saloni Mehta & Prashant Mondhe:** Developed the web-based user interface and integrated the frontend with the application backend.
+- **Backend Team — Ayush Bhagat, Harsh Roy, Umesh, Sumit & Sushant Pandey:** Worked on backend services, API development, document ingestion, AI/RAG workflows, retrieval, grounding, verification, and supporting application logic.
+- **Deployment — Shirish Srivastava & Rohan:** Handled deployment-related configuration and application rollout.
+
+---
+
+
 
 # 🎯 Project Objectives
 
@@ -31,7 +52,7 @@ The main objectives of this project are:
 
 ### 🔎 Enterprise Knowledge Search
 
-Users can ask natural-language questions about internal organizational knowledge instead of manually searching through multiple documents.
+Users can ask natural language questions about internal organizational knowledge instead of manually searching through multiple documents.
 
 ### 📚 Document-Based Question Answering
 
@@ -1047,6 +1068,19 @@ Scattered Enterprise Knowledge
 ```
 
 ---
+# 🎥 Demo & Project Video
+
+### 🚀 Live Demo
+
+👉 **[Try the Enterprise AI Knowledge Assistant](https://infosys-ai-knowledge-assistant-ente.vercel.app)**
+
+### 🎬 Project Demo Video
+
+👉 **[Watch the Project Demo Video](https://drive.google.com/file/d/1eLrlb5lARE1fOb4WXK3Z7G8DuveXEBQV/view?usp=sharing)**
+
+
+---
+
 
 # 📄 License
 
